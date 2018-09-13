@@ -83,6 +83,12 @@
             "url": "public.turtlenode.uk",
             "port": 11898,
             "ssl": false
+        },
+        {
+            "name": "skinnerturtle",
+            "url": "skinnerturtle.ddns.net",
+            "port": 11898,
+            "ssl": false
         }
     ]
 }
